@@ -1,0 +1,26 @@
+{
+  "name": "fundamentos2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reyes1408/Repositorio2.git"
+  },
+  "author": "Reyes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reyes1408/Repositorio2/issues"
+  },
+  "homepage": "https://github.com/reyes1408/Repositorio2#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "http": "0.0.0",
+    "net": "^1.0.2",
+    "os": "^0.1.1",
+    "socket.io": "^2.1.1"
+  }
+}
